@@ -65,6 +65,8 @@ o	Outlet channels contributed 33% ($295M).
 o	Online channels brought in 28% ($247M).
 •	Order Volume: Online channels led with 940K orders, followed by Outlet (850K) and In-store (670K).
 
+# <img width="298" alt="Sales by platform" src="https://github.com/user-attachments/assets/0835647b-50d1-4f2b-9b1e-ecd898e2bd11" />
+
 #### Adidas’s pandemic-era performance highlights significant growth, particularly in revenue and order count, driven by regional strengths, key product categories, and a diverse channel strategy. However, areas like Apparel and mid-2020 customer activity declines indicate opportunities for targeted improvement.
 
 ## Recommendations
@@ -98,6 +100,6 @@ o	Monitor and address the declining AOV by implementing value bundles or loyalty
 •	Expand outlet presence in key regions to capitalize on their strong contribution to sales while ensuring consistent branding.
 •	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
 
-# <img width="298" alt="Sales by platform" src="https://github.com/user-attachments/assets/0835647b-50d1-4f2b-9b1e-ecd898e2bd11" />
+
 
 
