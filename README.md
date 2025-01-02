@@ -36,6 +36,8 @@
   #### •	COVID Era Growth: From January 2020 to December 2021, Adidas averaged 7% monthly revenue growth peaking in July with $9M generated in yearly revenue
   #### •	AOV of Entire Period (2020-2021): AOV on average was $375 per every year, with a  decline in growth rate of  0.9% in 2021
 
+# ![total sales over time](https://github.com/user-attachments/assets/caaf4060-3af3-4f9f-9452-17ca98e24f73)
+
 ### Order Count
 •	Order count trends closely followed sales revenue
 •	Entire Period (2020-2021): The  yearly growth rate of orders from Jan 2020 to Dec 2021 grew by 336%.
@@ -65,7 +67,37 @@ o	Online channels brought in 28% ($247M).
 
 #### Adidas’s pandemic-era performance highlights significant growth, particularly in revenue and order count, driven by regional strengths, key product categories, and a diverse channel strategy. However, areas like Apparel and mid-2020 customer activity declines indicate opportunities for targeted improvement.
 
+## Recommendations
+### Sales Trends & Revenue
+o	focus on adaptive strategies for marketing and inventory management.
+o	Capitalize on peak periods, such as July, by introducing seasonal promotions or limited-edition products to drive revenue spikes.
+o	Monitor and address the declining AOV by implementing value bundles or loyalty programs to encourage higher spend per order.
 
+### Order Count
+•	Use the April 2020 and December 2021 order spikes to identify high-demand periods and prepare inventory accordingly.
+•	Enhance operational efficiency during peak months by scaling fulfilment capacity and implementing flexible workforce management.
+•	Focus on understanding drivers behind order peaks and replicate successful campaigns during similar future scenarios.
 
+### Geographical Trends
+•	Allocate marketing budgets and resources strategically, prioritizing the West region and other top-performing regions to maximize ROI.
+•	Develop tailored campaigns for underperforming regions based on the preferences and purchasing behaviour of those markets.
+•	Strengthen logistics and distribution networks in the top 10 states to maintain leadership and reduce delivery times
+
+### Product Trends
+•	Focus on the Street Footwear category as a key revenue driver and consider expanding the product line to include variations, collaborations, or premium offerings.
+•	Revitalize the Apparels category through product innovation, improved marketing, or partnerships to attract a larger audience.
+•	Conduct regular market analysis to identify emerging product trends and adapt offerings accordingly
+
+### Customer Purchase Trends
+•	Create gender-specific marketing strategies to better address the preferences of men and women customers, leveraging product affinities (e.g., Street Footwear for men and Apparels for women).
+•	Investigate the mid-2020 to mid-2021 customer decline to identify underlying causes (e.g., market saturation, economic factors) and design retention campaigns.
+•	Implement personalized marketing through CRM tools to re-engage lapsed customers and maintain steady growth.
+
+### Sales by Platforms & Channels
+•	Strengthen online sales strategies, as the channel accounted for the highest orders but the lowest revenue. This could involve enhancing the online shopping experience, offering exclusive online promotions, or improving personalization.
+•	Expand outlet presence in key regions to capitalize on their strong contribution to sales while ensuring consistent branding.
+•	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
+
+# <img width="298" alt="Sales by platform" src="https://github.com/user-attachments/assets/0835647b-50d1-4f2b-9b1e-ecd898e2bd11" />
 
 
