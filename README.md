@@ -32,9 +32,9 @@
 ## Insights Deep-Dive
 ### Sales Trends
 ### Sales Revenue
-  #### -	Entire Period (2020-2021): Overall, yearly revenue from Jan 2020 to Dec 2021 grew by 294%,  generating average yearly revenue of $449 M.
-  #### -	COVID Era Growth: From January 2020 to December 2021, Adidas averaged 7% monthly revenue growth peaking in July with $9M generated in yearly revenue
-  #### -	AOV of Entire Period (2020-2021): AOV on average was $375 per every year, with a  decline in growth rate of  0.9% in 2021
+   - Entire Period (2020-2021): Overall, yearly revenue from Jan 2020 to Dec 2021 grew by 294%,  generating average yearly revenue of $449 M.
+   - COVID Era Growth: From January 2020 to December 2021, Adidas averaged 7% monthly revenue growth peaking in July with $9M generated in yearly revenue
+   - AOV of Entire Period (2020-2021): AOV on average was $375 per every year, with a  decline in growth rate of  0.9% in 2021
 
 # ![total sales over time](https://github.com/user-attachments/assets/caaf4060-3af3-4f9f-9452-17ca98e24f73)
 
