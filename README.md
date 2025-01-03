@@ -32,38 +32,38 @@
 ## Insights Deep-Dive
 ### Sales Trends
 ### Sales Revenue
-  #### •	Entire Period (2020-2021): Overall, yearly revenue from Jan 2020 to Dec 2021 grew by 294%,  generating average yearly revenue of $449 M.
-  #### •	COVID Era Growth: From January 2020 to December 2021, Adidas averaged 7% monthly revenue growth peaking in July with $9M generated in yearly revenue
-  #### •	AOV of Entire Period (2020-2021): AOV on average was $375 per every year, with a  decline in growth rate of  0.9% in 2021
+  #### -	Entire Period (2020-2021): Overall, yearly revenue from Jan 2020 to Dec 2021 grew by 294%,  generating average yearly revenue of $449 M.
+  #### -	COVID Era Growth: From January 2020 to December 2021, Adidas averaged 7% monthly revenue growth peaking in July with $9M generated in yearly revenue
+  #### -	AOV of Entire Period (2020-2021): AOV on average was $375 per every year, with a  decline in growth rate of  0.9% in 2021
 
 # ![total sales over time](https://github.com/user-attachments/assets/caaf4060-3af3-4f9f-9452-17ca98e24f73)
 
 ### Order Count
-•	Order count trends closely followed sales revenue
-•	Entire Period (2020-2021): The  yearly growth rate of orders from Jan 2020 to Dec 2021 grew by 336%.
-•	Peaks & Valleys in Order Count: The company saw its highest order volume in April 2020, with 54K orders, and by December 2021 it reached its 2nd highest order volume of 2021 with 1M orders
+-	Order count trends closely followed sales revenue
+-	Entire Period (2020-2021): The  yearly growth rate of orders from Jan 2020 to Dec 2021 grew by 336%.
+-	Peaks & Valleys in Order Count: The company saw its highest order volume in April 2020, with 54K orders, and by December 2021 it reached its 2nd highest order volume of 2021 with 1M orders
 
 ## Geographical Trends
-•	Top Performing : West region is the company's top-performing region in country, driving 30% of total sales, and is the primary contributor in both sales’ revenue and order count
-•	Top 3 Region: The top 3 Region by sales revenue account for approximately 70% of total sales. These Region, ranked by sales revenue are: West, North east, South east.
-•	Top 10 States: Overall, Top 10 States by sales revenue are: New York, California, Florida, Texas, South-Carolina, Washington, North- Carolina, Louisiana, Hawaii, Virginia.
+-	Top Performing : West region is the company's top-performing region in country, driving 30% of total sales, and is the primary contributor in both sales’ revenue and order count
+-	Top 3 Region: The top 3 Region by sales revenue account for approximately 70% of total sales. These Region, ranked by sales revenue are: West, North east, South east.
+-	Top 10 States: Overall, Top 10 States by sales revenue are: New York, California, Florida, Texas, South-Carolina, Washington, North- Carolina, Louisiana, Hawaii, Virginia.
 
 ## Product Trends
-•	Highest Grossing Products: Street Footwear account for Approximately 38% of total sales, generating $336M.
-•	Highest Ordered Product: Street Footwear ordered for Approximately, 986k generating $336M .
-•	Weakest Product: Across all metrics, Apparels underperformed, with just 740K orders.
+-	Highest Grossing Products: Street Footwear account for Approximately 38% of total sales, generating $336M.
+-	Highest Ordered Product: Street Footwear ordered for Approximately, 986k generating $336M .
+-	Weakest Product: Across all metrics, Apparels underperformed, with just 740K orders.
 
 ## Customer Purchase Trends
-•	Men’s Segment: Contributed $486M in sales, with key peaks in April 2020 ($13M) and July 2021 ($42M). Men accounted for 43% of Street Footwear and 32% of Athletic Footwear sales.
-•	Women’s Segment: Generated $414M in sales, peaking at $11M in April 2020 and $35M in July 2021. Women contributed 44% of Apparel sales and 31% of Street Footwear sales.
-•	Trend: A decline in customer activity from mid-2020 to mid-2021 suggests potential shifts in market dynamics or customer preferences.
+-	Men’s Segment: Contributed $486M in sales, with key peaks in April 2020 ($13M) and July 2021 ($42M). Men accounted for 43% of Street Footwear and 32% of Athletic Footwear sales.
+-	Women’s Segment: Generated $414M in sales, peaking at $11M in April 2020 and $35M in July 2021. Women contributed 44% of Apparel sales and 31% of Street Footwear sales.
+-	Trend: A decline in customer activity from mid-2020 to mid-2021 suggests potential shifts in market dynamics or customer preferences.
 
 ## Sales by Platforms & Channels
-•	Channel Contribution:
-o	In-store sales dominated at 40% ($356M).
-o	Outlet channels contributed 33% ($295M).
-o	Online channels brought in 28% ($247M).
-•	Order Volume: Online channels led with 940K orders, followed by Outlet (850K) and In-store (670K).
+-	Channel Contribution:
+  1. In-store sales dominated at 40% ($356M).
+  2. Outlet channels contributed 33% ($295M).
+  3.Online channels brought in 28% ($247M).
+-	Order Volume: Online channels led with 940K orders, followed by Outlet (850K) and In-store (670K).
 
 # <img width="298" alt="Sales by platform" src="https://github.com/user-attachments/assets/0835647b-50d1-4f2b-9b1e-ecd898e2bd11" />
 
@@ -71,34 +71,34 @@ o	Online channels brought in 28% ($247M).
 
 ## Recommendations
 ### Sales Trends & Revenue
-o	focus on adaptive strategies for marketing and inventory management.
-o	Capitalize on peak periods, such as July, by introducing seasonal promotions or limited-edition products to drive revenue spikes.
-o	Monitor and address the declining AOV by implementing value bundles or loyalty programs to encourage higher spend per order.
+- focus on adaptive strategies for marketing and inventory management.
+-	Capitalize on peak periods, such as July, by introducing seasonal promotions or limited-edition products to drive revenue spikes.
+-	Monitor and address the declining AOV by implementing value bundles or loyalty programs to encourage higher spend per order.
 
 ### Order Count
-•	Use the April 2020 and December 2021 order spikes to identify high-demand periods and prepare inventory accordingly.
-•	Enhance operational efficiency during peak months by scaling fulfilment capacity and implementing flexible workforce management.
-•	Focus on understanding drivers behind order peaks and replicate successful campaigns during similar future scenarios.
+-	Use the April 2020 and December 2021 order spikes to identify high-demand periods and prepare inventory accordingly.
+-	Enhance operational efficiency during peak months by scaling fulfilment capacity and implementing flexible workforce management.
+-	Focus on understanding drivers behind order peaks and replicate successful campaigns during similar future scenarios.
 
 ### Geographical Trends
-•	Allocate marketing budgets and resources strategically, prioritizing the West region and other top-performing regions to maximize ROI.
-•	Develop tailored campaigns for underperforming regions based on the preferences and purchasing behaviour of those markets.
-•	Strengthen logistics and distribution networks in the top 10 states to maintain leadership and reduce delivery times
+-	Allocate marketing budgets and resources strategically, prioritizing the West region and other top-performing regions to maximize ROI.
+-	Develop tailored campaigns for underperforming regions based on the preferences and purchasing behaviour of those markets.
+-	Strengthen logistics and distribution networks in the top 10 states to maintain leadership and reduce delivery times
 
 ### Product Trends
-•	Focus on the Street Footwear category as a key revenue driver and consider expanding the product line to include variations, collaborations, or premium offerings.
-•	Revitalize the Apparels category through product innovation, improved marketing, or partnerships to attract a larger audience.
-•	Conduct regular market analysis to identify emerging product trends and adapt offerings accordingly
+-	Focus on the Street Footwear category as a key revenue driver and consider expanding the product line to include variations, collaborations, or premium offerings.
+-	Revitalize the Apparels category through product innovation, improved marketing, or partnerships to attract a larger audience.
+-	Conduct regular market analysis to identify emerging product trends and adapt offerings accordingly
 
 ### Customer Purchase Trends
-•	Create gender-specific marketing strategies to better address the preferences of men and women customers, leveraging product affinities (e.g., Street Footwear for men and Apparels for women).
-•	Investigate the mid-2020 to mid-2021 customer decline to identify underlying causes (e.g., market saturation, economic factors) and design retention campaigns.
-•	Implement personalized marketing through CRM tools to re-engage lapsed customers and maintain steady growth.
+-	Create gender-specific marketing strategies to better address the preferences of men and women customers, leveraging product affinities (e.g., Street Footwear for men and Apparels for women).
+-	Investigate the mid-2020 to mid-2021 customer decline to identify underlying causes (e.g., market saturation, economic factors) and design retention campaigns.
+-	Implement personalized marketing through CRM tools to re-engage lapsed customers and maintain steady growth.
 
 ### Sales by Platforms & Channels
-•	Strengthen online sales strategies, as the channel accounted for the highest orders but the lowest revenue. This could involve enhancing the online shopping experience, offering exclusive online promotions, or improving personalization.
-•	Expand outlet presence in key regions to capitalize on their strong contribution to sales while ensuring consistent branding.
-•	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
+-	Strengthen online sales strategies, as the channel accounted for the highest orders but the lowest revenue. This could involve enhancing the online shopping experience, offering exclusive online promotions, or improving personalization.
+-	Expand outlet presence in key regions to capitalize on their strong contribution to sales while ensuring consistent branding.
+-	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
 
 
 
