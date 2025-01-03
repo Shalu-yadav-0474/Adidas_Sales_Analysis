@@ -43,15 +43,23 @@
 -	Entire Period (2020-2021): The  yearly growth rate of orders from Jan 2020 to Dec 2021 grew by 336%.
 -	Peaks & Valleys in Order Count: The company saw its highest order volume in April 2020, with 54K orders, and by December 2021 it reached its 2nd highest order volume of 2021 with 1M orders
 
+
 ## Geographical Trends
 -	Top Performing : West region is the company's top-performing region in country, driving 30% of total sales, and is the primary contributor in both sales’ revenue and order count
 -	Top 3 Region: The top 3 Region by sales revenue account for approximately 70% of total sales. These Region, ranked by sales revenue are: West, North east, South east.
 -	Top 10 States: Overall, Top 10 States by sales revenue are: New York, California, Florida, Texas, South-Carolina, Washington, North- Carolina, Louisiana, Hawaii, Virginia.
 
+# <img width="428" alt="GT_2020" src="https://github.com/user-attachments/assets/a7f57a6b-70bb-42d8-bf6a-3b5974925024" />  <img width="431" alt="GT_2021" src="https://github.com/user-attachments/assets/75dfc9f5-b8cc-4e2b-858e-882fa1e3cb41" />
+
 ## Product Trends
 -	Highest Grossing Products: Street Footwear account for Approximately 38% of total sales, generating $336M.
 -	Highest Ordered Product: Street Footwear ordered for Approximately, 986k generating $336M .
 -	Weakest Product: Across all metrics, Apparels underperformed, with just 740K orders.
+
+
+ # <img width="344" alt="PC_2020" src="https://github.com/user-attachments/assets/005dfd50-f9a3-4000-9e1a-ef1bb8ad5acc" /> <img width="345" alt="PC_2021" src="https://github.com/user-attachments/assets/f7dd382b-ef58-4a1b-83f7-20a9582ec193" />
+
+
 
 ## Customer Purchase Trends
 -	Men’s Segment: Contributed $486M in sales, with key peaks in April 2020 ($13M) and July 2021 ($42M). Men accounted for 43% of Street Footwear and 32% of Athletic Footwear sales.
