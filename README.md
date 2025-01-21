@@ -109,9 +109,9 @@
 -	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
 
  ## Appendix
- * See the raw data in the Excel workbook.
- * See my SQL queries in the SQL file.
- * See the notebook for data cleaning, visualization, and analysis in the Python Notebook.
+ * See the raw data in the [Excel workbook.](https://github.com/Shalu-yadav-0474/Adidas_Sales_Analysis/blob/my-new-branch/Dataset/Adidas_sales%20data.xlsx "Excel workbook.")
+ * See the notebook for data cleaning, and analysis in the [Python Notebook.](https://github.com/Shalu-yadav-0474/Adidas_Sales_Analysis/blob/my-new-branch/Adidas-checkpoint.ipynb "Python Notebook.")
+ * See more trends using the [Power BI Dashboard](https://github.com/Shalu-yadav-0474/Adidas_Sales_Analysis/blob/my-new-branch/adidas_sales_analysis.pbix "Power BI Dashboard")
  * For more of my projects and data journey, [visit my portfolio website and reach out!](https://github.com/Shalu-yadav-0474 "visit my portfolio website and reach out!")
 
 
