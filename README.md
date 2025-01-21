@@ -16,15 +16,15 @@
 5. which platform has out-performed in terms of sales revenue and order count?
 
 ## Table of Contents
-##### •	Executive Summary
-##### •	Insights Deep-Dive
-   ##### •	Sales Trends
-    •	Geographical Trends
-    •	Product Trends
-    •	Customer Purchase Trends
-    •	Sales by Platforms & Channels
-•	Recommendations
-•	Assumptions and Caveats
+* Executive Summary
+* Insights Deep-Dive
+   * Sales Trends
+   * Geographical Trends
+   * Product Trends
+   * Customer Purchase Trends
+   * Sales by Platforms & Channels
+* Recommendations
+* Appendix
 
 ## Executive Summary
 #### From 2020 to 2021, Adidas experienced remarkable growth, with sales revenue increasing by 294% and average yearly revenue reaching $449M, despite a 0.9% decline in Average Order Value (AOV) growth in 2021. Monthly revenue growth averaged 7%, peaking at $9M in July 2021. Order count closely mirrored revenue trends, growing by 336% over the period, with a record 1M orders in December 2021. Geographically, the West region dominated sales, contributing 30% of total revenue, while the top three regions collectively accounted for 70%. Street Footwear emerged as the leading product category, generating $336M, while Apparels underperformed across all metrics. Customer trends revealed men driving $486M in sales and women contributing $414M, with distinct seasonal peaks and declines indicating shifts in preferences. In-store sales led revenue channels at 40%, yet online platforms recorded the highest order volume at 940K. These insights highlight key opportunities to optimize product offerings, regional strategies, and channel performance to sustain growth.
@@ -108,6 +108,10 @@
 -	Expand outlet presence in key regions to capitalize on their strong contribution to sales while ensuring consistent branding.
 -	Innovate in-store experiences by incorporating digital integrations or exclusive in-store offerings to drive foot traffic and increase sales.
 
-
+ ## Appendix
+ * See the raw data in the Excel workbook.
+ * See my SQL queries in the SQL file.
+ * See the notebook for data cleaning, visualization, and analysis in the Python Notebook.
+ * For more of my projects and data journey, [visit my portfolio website and reach out!](https://github.com/Shalu-yadav-0474 "visit my portfolio website and reach out!")
 
 
